@@ -1,4 +1,4 @@
-# Assignment 5
+# Hamming(8, 4) Encoder and Decoder
 
 This assignment is made up of two programs: a Hamming code encoder and decoder both
 operating with the Hamming(8, 4) systematic code. The generator and parity-checker
